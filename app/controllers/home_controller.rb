@@ -24,7 +24,6 @@ class HomeController < ApplicationController
         #form 을 통해 검색어를 입력 받아 
         # naver, daum , google에 넘겨준다. 
         
-        s
     end
     
 end
